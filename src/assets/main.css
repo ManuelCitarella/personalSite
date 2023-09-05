@@ -30,6 +30,6 @@ a,
   #app {
     display: flex;
     flex-direction: column;
-    padding: 0 2rem;
+    padding: 2 2rem;
   }
 }
